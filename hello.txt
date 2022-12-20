@@ -1,1 +1,2 @@
 Hello this file is created by git command prompt
+Adding additional data and again add it to git and commit the changes 
