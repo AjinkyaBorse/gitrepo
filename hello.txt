@@ -2,3 +2,4 @@ Hello this file is created by git command prompt
 Adding additional data and again add it to git and commit the changes 
 adding content from dev1 and push it into repo
 Again adding somecontent from dev2 and push it to the gitrepo
+editing text from both dev (dev1)
